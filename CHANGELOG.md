@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+# 1.4.1 (2021-04-16)
+
+### 🔥 Hotfix
+
+- Fixing international CDN has invalid links.(#52)
+
+# 1.4.0 (2021-04-15)
+
+### ✨ New features
+
+- 👾 Added aurora bot `Dia` (**Tons of features are packed into this bot**)
+- Added `table` styles.
+- Added `inline code` styles.
+
+> Document for configuring `Dia` bot <br> https://aurora.tridiamond.tech/guide/plugins.html#bot-dia
+
 # 1.3.0 (2021-04-09)
 
 ### ✨ New features
